@@ -1,0 +1,11 @@
+check_name,issue_count
+Missing Customer Names,21
+Missing Age Groups,15
+Duplicate Customers,25
+Invalid Regions,10
+Invalid Customer References,50
+Negative Transactions,30
+Zero Value Transactions,20
+Missing Transaction Dates,15
+Future-Dated Transactions,25
+Invalid Categories,40
